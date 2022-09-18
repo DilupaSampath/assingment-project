@@ -1,0 +1,15 @@
+<div class="container" fxLayout="row" fxLayoutAlign="center none">
+  <div fxFlex="95%">
+    <mat-progress-bar *ngIf="loading" mode="indeterminate"></mat-progress-bar>
+    <app-pagination-table
+    [tableTitle]="'Users'"
+    [displayedColumns] = "displayedColumns"
+    [tableColumDataModel]="tableColumDataModel"
+    [commonPaginationModel] = "userPaginationModel"
+    [dataSourceClientSide]="dataSource"
+    [isServerSidePagination]="false"
+    (editEvent)="editEvent($event)"
+    (viewEvent)="viewEvent($event)"
+    ></app-pagination-table>
+  </div>
+</div>
