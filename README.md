@@ -1,8 +1,5 @@
 #City List Project
 
-
-#####Steps : [DOC Link](https://docs.google.com/document/d/1A0mc-jemjc5s_qxwxvfG7FmCNLT5WsAd/edit?usp=sharing&ouid=113196560045382324668&rtpof=true&sd=true )
-
 ##Features
 **User login
 
