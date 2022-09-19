@@ -1,5 +1,30 @@
 #City List Project
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
+
+## Development server
+
+Run `npm start` for a dev server. This will linked with local proxy file. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+or double click on the *root folder\START-angular-front-end.bat 
+(Note: Do not use the ng serve command. Since an internal proxy file is used, a customized ng serve command is run when the following bat file is double clicked)
+
+#####Steps : [DOC Link](https://docs.google.com/document/d/1A0mc-jemjc5s_qxwxvfG7FmCNLT5WsAd/edit?usp=sharing&ouid=113196560045382324668&rtpof=true&sd=true )
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `npm test` to execute the unit tests via [JEST](https://jestjs.io/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 ##Features
 **User login
 
