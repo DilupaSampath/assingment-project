@@ -90,5 +90,7 @@ Steps : [DOC Link](https://docs.google.com/document/d/1A0mc-jemjc5s_qxwxvfG7FmCN
 ## 7.Now open your browser and navigate to http://localhost:4200/
 
 Admin user login details with ROLE_ALLOW_EDIT = True
+
 Username - adminuser
+
 Password - kpass
